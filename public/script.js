@@ -1090,6 +1090,15 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   const savedTheme = localStorage.getItem("theme") || "light";
   applyTheme(savedTheme);
+  
+  const btn = document.getElementById("btnOpenCartMobile");
+if (btn) {
+  btn.onclick = () => {
+    document.getElementById("cartBox")
+      ?.scrollIntoView({ behavior: "smooth" });
+  };
+}
+
 
   const btn = document.getElementById("btnToggleTheme");
   if (btn) {
