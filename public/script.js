@@ -1091,7 +1091,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const savedTheme = localStorage.getItem("theme") || "light";
   applyTheme(savedTheme);
 
-  // 🎯 FIX: Buton mobil "Vezi coșul"
+  // 🎯 FIX: Buton mobil "Vezi comanda"
   const btnCartMobile = document.getElementById("btnOpenCartMobile");
   if (btnCartMobile) {
     btnCartMobile.addEventListener("click", () => {
