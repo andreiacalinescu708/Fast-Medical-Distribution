@@ -437,3 +437,18 @@ body {
    .cart { position: static;
          }
 }
+@media (max-width: 900px) {
+  .cart-mobile-btn {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 16px;
+    font-size: 18px;
+    background: #1976d2;
+    color: white;
+    border: none;
+    z-index: 999;
+  }
+}
+
