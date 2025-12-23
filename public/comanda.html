@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Comandă</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div id="userBar"></div>
+
+  <div class="left-actions">
+    
+    
+  </div>
+
+  <h1>Comenzi</h1>
+  <a class="linkbtn" href="index.html">Pagina Principala</a>
+
+  <div class="actions">
+  </div>
+</header>
+
+
+  <main class="grid">
+    <section class="panel">
+      <h2 id="clientTitle">Client: (nesetat)</h2>
+      <p class="hint">! Nu uita sa finalizezi comanda !.</p>
+
+      
+      <div class="product-search">
+  <input
+    type="text"
+    id="searchProduct"
+    placeholder="Caută produs..."
+  />
+  <div id="productSearchResults" class="list"></div>
+</div>
+
+
+      <h3>Alege Produse </h3>
+      <div id="productsTree" class="tree"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Revizuire comandă</h2>
+      <div id="cartBox" class="cart"></div>
+      <div id="cartTotal" class="cart-total"></div>
+
+
+      <div class="row row-right">
+        <button id="btnSendOrder">Trimite comanda</button>
+      </div>
+
+      <p class="hint small">
+        Tip: + / - modifică cantitatea. 🗑 șterge produsul.
+      </p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

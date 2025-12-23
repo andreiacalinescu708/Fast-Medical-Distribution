@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <title>Recepționare Marfă</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <button onclick="location.href='index.html'">⬅ Înapoi</button>
+  <h1>Recepționare Marfă</h1>
+</header>
+
+<main class="container">
+
+  <div class="card">
+    <h3>Adaugă stoc</h3>
+    <label>Scanare QR</label>
+<input id="qrInput" placeholder="Scanează codul QR aici" autofocus />
+
+
+    <label>Produs</label>
+    <select id="stockProduct"></select>
+
+    <label>LOT</label>
+    <input id="stockLot" placeholder="LOT-XXXX" />
+
+    <label>Data expirare</label>
+    <input id="stockExpire" type="date" />
+
+    <label>Cantitate</label>
+    <input id="stockQty" type="number" min="1" />
+
+    <button id="btnAddStock">➕ Adaugă în stoc</button>
+  </div>
+
+  <div class="card">
+    <h3>Stoc existent</h3>
+    <div id="stockList"></div>
+  </div>
+
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>

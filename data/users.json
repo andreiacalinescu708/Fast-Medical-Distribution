@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "passwordHash": "$2b$10$DLl6Oku3AaPh.FPiEyDAQumSwWZgMDhoR6TbnuANOtMDg7wSC9J3a",
+    "role": "admin",
+    "active": true
+  },
+  {
+    "id": "1766339267660",
+    "username": "andrei",
+    "passwordHash": "$2b$10$hgQ8oFv0PAnoK2Qv8Hl1IuCGn8y5vlrSJoWGDpCdCY4h/2AZBpe/2",
+    "role": "user",
+    "active": true,
+    "createdAt": "2025-12-21T17:47:47.660Z"
+  },
+  {
+    "id": "1766340273385",
+    "username": "calinescu",
+    "password": "$2b$10$jjChj7fqzoVDFGBsbhH3qudqTKOzPIl9LKvkC4MVmYk45fTx.mFDq",
+    "role": "user",
+    "createdAt": "2025-12-21T18:04:33.385Z"
+  },
+  {
+    "id": "1766340524961",
+    "username": "alex",
+    "passwordHash": "$2b$10$VmLKEwiArNRJLGxvmrgFuuoROgoXgvnKzQ7EExIEaRxnZL4sXdg..",
+    "role": "user",
+    "active": true
+  },
+  {
+    "id": "1766435134969",
+    "username": "ivona",
+    "passwordHash": "$2b$10$V.qcymDNBpHcVVcdWyvZKe2WziFyMjSq9ozUujn3FoO6a/V7oaNXe",
+    "role": "user",
+    "active": true
+  }
+]

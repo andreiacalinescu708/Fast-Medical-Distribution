@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Selectează client</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="userBar"></div>
+  <header class="topbar">
+    <div id="userBar"></div>
+
+  <div class="left-actions">
+    <a class="linkbtn" href="index.html">←</a>
+  </div>
+
+  <h1>Comenzi</h1>
+
+  <div class="actions">
+    <button id="btnThemeToggle">🌙</button>
+  </div>
+</header>
+
+  <button class="linkbtn" id="btnViewCurrentOrder">
+  🧾 Vizualizează comanda actuală
+</button>
+
+
+
+  <main class="container">
+    <p class="hint">Click pe client ca să începi o comandă.</p>
+    <div class="client-search">
+  <input
+    type="text"
+    id="searchClient"
+    placeholder="Caută client..."
+  />
+  <div id="clientSearchResults" class="list"></div>
+</div>
+    <div id="clientsTree" class="tree"></div>
+    <div id="clientsSearchResults" class="list"></div>
+  </main>
+  <a class="linkbtn" href="index.html">Dashboard</a>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

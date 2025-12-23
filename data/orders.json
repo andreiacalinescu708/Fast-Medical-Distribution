@@ -1,0 +1,2597 @@
+[
+  {
+    "id": "1765835946138",
+    "createdAt": "2025-12-15T21:59:06.138Z",
+    "client": {
+      "id": "CL002",
+      "name": "CERULEX TG. JIU",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare"
+  },
+  {
+    "id": "1765833610346",
+    "createdAt": "2025-12-15T21:20:10.346Z",
+    "client": {
+      "id": "CL003",
+      "name": "Gentiana TG. JIU",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765813980331",
+    "createdAt": "2025-12-15T15:53:00.331Z",
+    "client": {
+      "id": 8,
+      "name": "Texavit 1",
+      "path": "Exterior / Valcea",
+      "group": "Exterior",
+      "area": "Valcea"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 4,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - S",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765745548875",
+    "createdAt": "2025-12-14T20:52:28.875Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 5,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765745117931",
+    "createdAt": "2025-12-14T20:45:17.931Z",
+    "client": {
+      "id": 66,
+      "name": "Optimed Petrosani",
+      "path": "Exterior / HD",
+      "group": "Exterior",
+      "area": "HD"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Perfecta Slim Violet Silky Drai Deo 10",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Perfecta Slim Blue Extra Soft 20 buc",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "PLUS",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Herbs Panty Sensitive Patlagina a'18 - display",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Panty Light Sensitive a'60",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765745012250",
+    "createdAt": "2025-12-14T20:43:32.250Z",
+    "client": {
+      "id": 4,
+      "name": "Gidea FARM",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 22,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765744780858",
+    "createdAt": "2025-12-14T20:39:40.858Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare"
+  },
+  {
+    "id": "1765744696281",
+    "createdAt": "2025-12-14T20:38:16.281Z",
+    "client": {
+      "id": 3,
+      "name": "Gentiana TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765744688915",
+    "createdAt": "2025-12-14T20:38:08.915Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765744487168",
+    "createdAt": "2025-12-14T20:34:47.168Z",
+    "client": {
+      "id": 1,
+      "name": "Iasomie Turceni",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 4,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare"
+  },
+  {
+    "id": "1765744469272",
+    "createdAt": "2025-12-14T20:34:29.272Z",
+    "client": {
+      "id": 41,
+      "name": "Margo (Cujmir)",
+      "path": "Exterior / Calafat",
+      "group": "Exterior",
+      "area": "Calafat"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - S",
+        "qty": 11,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "NORMAL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "NIGHT",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765743369702",
+    "createdAt": "2025-12-14T20:16:09.702Z",
+    "client": {
+      "id": 19,
+      "name": "Cynara Galicea",
+      "path": "Exterior / Valcea",
+      "group": "Exterior",
+      "area": "Valcea"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SUPER 90x60x5",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765743341790",
+    "createdAt": "2025-12-14T20:15:41.790Z",
+    "client": {
+      "id": 1,
+      "name": "Iasomie Turceni",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - S",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare"
+  },
+  {
+    "id": "1765735413143",
+    "createdAt": "2025-12-14T18:03:33.143Z",
+    "client": {
+      "id": 3,
+      "name": "Gentiana TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765734513590",
+    "createdAt": "2025-12-14T17:48:33.590Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765734317542",
+    "createdAt": "2025-12-14T17:45:17.542Z",
+    "client": {
+      "id": 4,
+      "name": "Gidea FARM",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765734287550",
+    "createdAt": "2025-12-14T17:44:47.550Z",
+    "client": {
+      "id": 12,
+      "name": "Bellisima",
+      "path": "Exterior / Valcea",
+      "group": "Exterior",
+      "area": "Valcea"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare"
+  },
+  {
+    "id": "1765733720693",
+    "createdAt": "2025-12-14T17:35:20.693Z",
+    "client": {
+      "id": 13,
+      "name": "Terrapy",
+      "path": "Exterior / Valcea",
+      "group": "Exterior",
+      "area": "Valcea"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765732777749",
+    "createdAt": "2025-12-14T17:19:37.749Z",
+    "client": {
+      "id": 49,
+      "name": "Nido 5 (Calafat - Piata)",
+      "path": "Exterior / Calafat",
+      "group": "Exterior",
+      "area": "Calafat"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Bella Perfecta Slim Rose Extra Soft Deo 20 buc",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Panty Ideale Normal 54",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Ideale Ultra Stay Drai 20",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SERVETELE SENI X68",
+        "qty": 5,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "DISCHETE DEMACHIANTE X60",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "DISCHETE DEMACHIANTE X100",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "DISCHETE DEMACHIANTE X140",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Matopat Universal plasturi a'20",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Matopat Aqua Stop plasturi a'18",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "LATEX PUDRATE - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765732534030",
+    "createdAt": "2025-12-14T17:15:34.030Z",
+    "client": {
+      "id": 62,
+      "name": "ANDA Segarcea",
+      "path": "Exterior / Calafat",
+      "group": "Exterior",
+      "area": "Calafat"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Bella Herbs Panty Floare de tei Mixform a'60",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - S",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare"
+  },
+  {
+    "id": "1765732488319",
+    "createdAt": "2025-12-14T17:14:48.319Z",
+    "client": {
+      "id": 3,
+      "name": "Gentiana TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765732437719",
+    "createdAt": "2025-12-14T17:13:57.719Z",
+    "client": {
+      "id": 10,
+      "name": "Bios 1",
+      "path": "Exterior / Valcea",
+      "group": "Exterior",
+      "area": "Valcea"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "EXTRA",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Seni Care Crema oxid de zinc 100 ml",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765729691713",
+    "createdAt": "2025-12-14T16:28:11.713Z",
+    "client": {
+      "id": 1,
+      "name": "Iasomie Turceni",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare"
+  },
+  {
+    "id": "1765729167593",
+    "createdAt": "2025-12-14T16:19:27.593Z",
+    "client": {
+      "id": 1,
+      "name": "Iasomie Turceni",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata"
+  },
+  {
+    "id": "1765728878785",
+    "createdAt": "2025-12-14T16:14:38.785Z",
+    "client": {
+      "id": 1,
+      "name": "Iasomie Turceni",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Perfecta Slim Violet Silky Drai Deo 10",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765728227681",
+    "createdAt": "2025-12-14T16:03:47.681Z",
+    "client": {
+      "id": 1,
+      "name": "Iasomie Turceni",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765725534633",
+    "createdAt": "2025-12-14T15:18:54.633Z",
+    "client": {
+      "id": 4,
+      "name": "Gidea FARM",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Perfecta Slim Green Silk Drai 10",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Panty Classic 60",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "DISCHETE DEMACHIANTE X100",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765723978207",
+    "createdAt": "2025-12-14T14:52:58.207Z",
+    "client": {
+      "id": 23,
+      "name": "Metadib",
+      "path": "Exterior / Horezu",
+      "group": "Exterior",
+      "area": "Horezu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765723949408",
+    "createdAt": "2025-12-14T14:52:29.408Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SUPER 60x60x5",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765717567534",
+    "createdAt": "2025-12-14T13:06:07.534Z",
+    "client": {
+      "id": 9,
+      "name": "Texavit 2 (Centru)",
+      "path": "Exterior / Valcea",
+      "group": "Exterior",
+      "area": "Valcea"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SUPER 90x60x30",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765717555010",
+    "createdAt": "2025-12-14T13:05:55.010Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765717280185",
+    "createdAt": "2025-12-14T13:01:20.185Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SUPER 60x60x30",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC 60x60x30",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "MICRO PLUS",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Herbs Panty Verbina a'18 - display",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Perfecta Slim Night Extra Soft 7 buc",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765716352259",
+    "createdAt": "2025-12-14T12:45:52.259Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Herbs Panty Floare de tei Mixform a'18 - display",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765711959440",
+    "createdAt": "2025-12-14T11:32:39.440Z",
+    "client": {
+      "id": 79,
+      "name": "Al Shefa Craiovita",
+      "path": "Craiova",
+      "group": "Craiova",
+      "area": ""
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Perfecta Slim Rose Extra Soft Deo 10",
+        "qty": 4,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765711685241",
+    "createdAt": "2025-12-14T11:28:05.241Z",
+    "client": {
+      "id": 80,
+      "name": "Anedio Craiovita",
+      "path": "Craiova",
+      "group": "Craiova",
+      "area": ""
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Perfecta Slim Green Silk Drai 10",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Perfecta Slim Violet Silky Drai Deo 10",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765711371712",
+    "createdAt": "2025-12-14T11:22:51.712Z",
+    "client": {
+      "id": 79,
+      "name": "Al Shefa Craiovita",
+      "path": "Craiova",
+      "group": "Craiova",
+      "area": ""
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 10,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765711196012",
+    "createdAt": "2025-12-14T11:19:56.012Z",
+    "client": {
+      "id": 79,
+      "name": "Al Shefa Craiovita",
+      "path": "Craiova",
+      "group": "Craiova",
+      "area": ""
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "MICRO",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "NORMAL",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765709091611",
+    "createdAt": "2025-12-14T10:44:51.611Z",
+    "client": {
+      "id": 8,
+      "name": "Texavit 1",
+      "path": "Exterior / Valcea",
+      "group": "Exterior",
+      "area": "Valcea"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Perfecta Slim Blue Extra Soft 10",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC 90x60x30",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SUPER 60x60x30",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SERVETELE SENI X68",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Matopat Transparent plasturi a'20",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Plasturi Matopat Qwikstrip Transp Ø 22mm a'100",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765708683493",
+    "createdAt": "2025-12-14T10:38:03.493Z",
+    "client": {
+      "id": 25,
+      "name": "DIMAFARM",
+      "path": "Exterior / OLT",
+      "group": "Exterior",
+      "area": "OLT"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Panty Classic 20",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Panty Light Sensitive a'20",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Bella Panty Light Sensitive a'60",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 4,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765705168047",
+    "createdAt": "2025-12-14T09:39:28.047Z",
+    "client": {
+      "id": 66,
+      "name": "Optimed Petrosani",
+      "path": "Exterior / HD",
+      "group": "Exterior",
+      "area": "HD"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Bella Herbs Panty Verbina a'18 - display",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765705056341",
+    "createdAt": "2025-12-14T09:37:36.341Z",
+    "client": {
+      "id": 79,
+      "name": "Al Shefa Craiovita",
+      "path": "Craiova",
+      "group": "Craiova",
+      "area": ""
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Panty Classic 20",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - M",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "id": "1765702443321",
+    "createdAt": "2025-12-14T08:54:03.321Z",
+    "client": {
+      "id": 2,
+      "name": "CERULEX TG. JIU",
+      "path": "Exterior / Targu Jiu",
+      "group": "Exterior",
+      "area": "Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "SUPER 90x170x30",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Matopat Transparent plasturi a'20",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "TRIMISA"
+  },
+  {
+    "client": {
+      "id": 1,
+      "name": "Client Test SRL",
+      "email": "client@test.ro"
+    },
+    "id": "1765838032191pe5xhsu2p29",
+    "status": "in_procesare",
+    "createdAt": "2025-12-14T08:40:03.139Z",
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "Seni Care Crema curatare corp 3 in 1 1000 ml",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ]
+  },
+  {
+    "id": "1765838411289",
+    "client": {
+      "id": "CL002",
+      "name": "CERULEX TG. JIU",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - S",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - S",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-15T22:40:11.289Z"
+  },
+  {
+    "id": "1765838433344",
+    "client": {
+      "id": "CL040",
+      "name": "Amvia (Jiana)",
+      "group": "Exterior",
+      "path": "Exterior / Calafat"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "AIR/SCAI - S",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - XL",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - S",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - M",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "ACTIVE/CHILOT - L",
+        "qty": 1,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "AIR/SCAI - L",
+        "qty": 3,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-15T22:40:33.344Z"
+  },
+  {
+    "id": "1765838472197",
+    "client": {
+      "id": "CL060",
+      "name": "Xantipa Goicea",
+      "group": "Exterior",
+      "path": "Exterior / Calafat"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "BASIC - L",
+        "qty": 8,
+        "price": null,
+        "allocations": []
+      },
+      {
+        "productId": null,
+        "name": "BASIC - XL",
+        "qty": 4,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-15T22:41:12.197Z"
+  },
+  {
+    "id": "1765996059114",
+    "client": {
+      "id": "CL002",
+      "name": "CERULEX TG. JIU",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "SUPER",
+        "qty": 9,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-17T18:27:39.118Z"
+  },
+  {
+    "id": "1765998935159",
+    "client": {
+      "id": "CL004",
+      "name": "Gidea FARM",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "BASIC - S",
+        "qty": 2,
+        "price": null,
+        "allocations": []
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-17T19:15:35.159Z"
+  },
+  {
+    "id": "1765999981118",
+    "client": {
+      "id": "CL012",
+      "name": "Bellisima",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 3,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 3
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-17T19:33:01.118Z"
+  },
+  {
+    "id": "1766000868790",
+    "client": {
+      "id": "CL002",
+      "name": "CERULEX TG. JIU",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 2,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 2
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-17T19:47:48.790Z"
+  },
+  {
+    "id": "1766002829805",
+    "client": {
+      "id": "CL018",
+      "name": "Cynara Olanu",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 6,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 6
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-17T20:20:29.805Z"
+  },
+  {
+    "id": "1766003999613",
+    "client": {
+      "id": "CL003",
+      "name": "Gentiana TG. JIU",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 3,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 3
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-17T20:39:59.613Z"
+  },
+  {
+    "id": "1766004010935",
+    "client": {
+      "id": "CL011",
+      "name": "Bios 2",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 5,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 5
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-17T20:40:10.935Z"
+  },
+  {
+    "id": "1766004065071",
+    "client": {
+      "id": "CL017",
+      "name": "Teosan Centru",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 8,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 8
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 4,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 4
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-17T20:41:05.071Z"
+  },
+  {
+    "id": "1766332502963",
+    "client": {
+      "id": "CL020",
+      "name": "Amavita",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 3,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 3
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-21T15:55:02.964Z"
+  },
+  {
+    "id": "1766332562718",
+    "client": {
+      "id": "CL006",
+      "name": "CRUPOP",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 7,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 7
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-21T15:56:02.718Z"
+  },
+  {
+    "id": "1766338667908",
+    "client": {
+      "id": "CL002",
+      "name": "CERULEX TG. JIU",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 5,
+        "price": null,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 5
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-21T17:37:47.908Z"
+  },
+  {
+    "id": "1766400978663",
+    "client": {
+      "id": "CL004",
+      "name": "Gidea FARM",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 4,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 4
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-22T10:56:18.663Z"
+  },
+  {
+    "id": "1766434191117",
+    "client": {
+      "id": "CL013",
+      "name": "Terrapy",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 7,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 7
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 1,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 1
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-22T20:09:51.117Z"
+  },
+  {
+    "id": "1766434859491",
+    "client": {
+      "id": "CL004",
+      "name": "Gidea FARM",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 2,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 2
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-22T20:20:59.491Z"
+  },
+  {
+    "id": "1766435012442",
+    "client": {
+      "id": "CL025",
+      "name": "DIMAFARM",
+      "group": "Exterior",
+      "path": "Exterior / OLT"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 4,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 4
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "SUPER",
+        "qty": 62,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 62
+          }
+        ]
+      }
+    ],
+    "status": "livrata",
+    "createdAt": "2025-12-22T20:23:32.442Z"
+  },
+  {
+    "id": "1766436936355",
+    "client": {
+      "id": "CL013",
+      "name": "Terrapy",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-22T20:55:36.355Z"
+  },
+  {
+    "id": "1766441157650",
+    "client": {
+      "id": "CL013",
+      "name": "Terrapy",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      },
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-22T22:05:57.650Z"
+  },
+  {
+    "id": "1766441157657",
+    "client": {
+      "id": "CL013",
+      "name": "Terrapy",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      },
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-22T22:05:57.657Z"
+  },
+  {
+    "id": "1766441198409",
+    "client": {
+      "id": "CL014",
+      "name": "Medi",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      },
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 2,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 2
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "Lady SUPER",
+        "qty": 3,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 3
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "Lady SUPER",
+        "qty": 3,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 3
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-22T22:06:38.409Z"
+  },
+  {
+    "id": "1766441795289",
+    "client": {
+      "id": "CL006",
+      "name": "CRUPOP",
+      "group": "Exterior",
+      "path": "Exterior / Targu Jiu"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 3,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 3
+          }
+        ]
+      },
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 3,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 3
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-22T22:16:35.289Z"
+  },
+  {
+    "id": "1766442144364",
+    "client": {
+      "id": "CL019",
+      "name": "Cynara Galicea",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 3,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 3
+          }
+        ]
+      },
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 3,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 3
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-22T22:22:24.364Z"
+  },
+  {
+    "id": "1766507912416",
+    "client": {
+      "id": "CL016",
+      "name": "Teosan Gara",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 1,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 1
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "Lady SUPER",
+        "qty": 3,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 3
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-23T16:38:32.416Z"
+  },
+  {
+    "id": "1766513284091",
+    "client": {
+      "id": "CL012",
+      "name": "Bellisima",
+      "group": "Exterior",
+      "path": "Exterior / Valcea"
+    },
+    "items": [
+      {
+        "productId": 4,
+        "name": "ACTIVE/CHILOT - XL",
+        "qty": 3,
+        "price": 93.57,
+        "allocations": [
+          {
+            "lot": "1402426349",
+            "expiresAt": "2030-12-31",
+            "qty": 3
+          }
+        ]
+      },
+      {
+        "productId": 36,
+        "name": "Lady SUPER",
+        "qty": 5,
+        "price": 14.4,
+        "allocations": [
+          {
+            "lot": "1402345285",
+            "expiresAt": "2030-04-30",
+            "qty": 5
+          }
+        ]
+      }
+    ],
+    "status": "in_procesare",
+    "createdAt": "2025-12-23T18:08:04.091Z"
+  }
+]

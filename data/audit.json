@@ -1,0 +1,354 @@
+[
+  {
+    "id": "1766331282255",
+    "action": "STOCK_UPDATE",
+    "entity": "stock",
+    "entityId": "17663312663886brywzwfdvt",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "beforeQty": 2333,
+      "afterQty": 2334
+    },
+    "createdAt": "2025-12-21T15:34:42.255Z"
+  },
+  {
+    "id": "1766331451630",
+    "action": "STOCK_DELETE",
+    "entity": "stock",
+    "entityId": "17663312663886brywzwfdvt",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "qty": 2334
+    },
+    "createdAt": "2025-12-21T15:37:31.630Z"
+  },
+  {
+    "id": "1766331704966",
+    "action": "STOCK_UPDATE",
+    "entity": "stock",
+    "entityId": "1766331253391nykqndv0lvh",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "beforeQty": 544,
+      "afterQty": 550
+    },
+    "createdAt": "2025-12-21T15:41:44.966Z"
+  },
+  {
+    "id": "1766331728416",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "1766331728415g9pnfcg8je",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "qty": 777
+    },
+    "createdAt": "2025-12-21T15:42:08.416Z"
+  },
+  {
+    "id": "1766331734248",
+    "action": "STOCK_UPDATE",
+    "entity": "stock",
+    "entityId": "1766331728415g9pnfcg8je",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "beforeQty": 777,
+      "afterQty": 780
+    },
+    "createdAt": "2025-12-21T15:42:14.248Z"
+  },
+  {
+    "id": "1766331740485",
+    "action": "STOCK_DELETE",
+    "entity": "stock",
+    "entityId": "1766331728415g9pnfcg8je",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "qty": 780
+    },
+    "createdAt": "2025-12-21T15:42:20.485Z"
+  },
+  {
+    "id": "1766332442479",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "176633244247886vj6i2yorv",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402455555",
+      "qty": 22
+    },
+    "createdAt": "2025-12-21T15:54:02.479Z"
+  },
+  {
+    "id": "1766332677397",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "17663326773967an37ey7693",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "qty": 2323
+    },
+    "createdAt": "2025-12-21T15:57:57.397Z"
+  },
+  {
+    "id": "1766332685118",
+    "action": "STOCK_UPDATE",
+    "entity": "stock",
+    "entityId": "17663326773967an37ey7693",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "beforeQty": 2323,
+      "afterQty": 232
+    },
+    "createdAt": "2025-12-21T15:58:05.118Z"
+  },
+  {
+    "id": "1766335461954",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "17663326773967an37ey7693",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "newQty": 2322
+    },
+    "createdAt": "2025-12-21T16:44:21.955Z"
+  },
+  {
+    "id": "1766335461963",
+    "action": "STOCK_UPDATE",
+    "entity": "stock",
+    "entityId": "17663326773967an37ey7693",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "beforeQty": 232,
+      "afterQty": 2322
+    },
+    "createdAt": "2025-12-21T16:44:21.963Z"
+  },
+  {
+    "id": "1766335483848",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "1766335483846ooof8rojg9q",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "qty": 333
+    },
+    "createdAt": "2025-12-21T16:44:43.848Z"
+  },
+  {
+    "id": "1766336223584",
+    "action": "STOCK_DELETE",
+    "entity": "stock",
+    "entityId": "1766335483846ooof8rojg9q",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "expiresAt": "2030-04-30",
+      "qty": 333
+    },
+    "createdAt": "2025-12-21T16:57:03.584Z"
+  },
+  {
+    "id": "1766336229000",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "17663326773967an37ey7693",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "beforeQty": 2322,
+      "afterQty": 23
+    },
+    "createdAt": "2025-12-21T16:57:09.000Z"
+  },
+  {
+    "id": "1766336249740",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "17663362497388awidpbcplg",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "qty": 321
+    },
+    "createdAt": "2025-12-21T16:57:29.740Z"
+  },
+  {
+    "id": "1766336257186",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "17663362497388awidpbcplg",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "beforeQty": 321,
+      "afterQty": 3212
+    },
+    "createdAt": "2025-12-21T16:57:37.186Z"
+  },
+  {
+    "id": "1766336463142",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "17663326773967an37ey7693",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "beforeQty": 23,
+      "afterQty": 232
+    },
+    "createdAt": "2025-12-21T17:01:03.142Z"
+  },
+  {
+    "id": "1766435104734",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "1766435104728empgmg49ryb",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "qty": 72
+    },
+    "createdAt": "2025-12-22T20:25:04.734Z"
+  },
+  {
+    "id": "1766438356082",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "17664383560758t4nvkin9qd",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "140242634888",
+      "qty": 22
+    },
+    "createdAt": "2025-12-22T21:19:16.082Z"
+  },
+  {
+    "id": "1766439052330",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "1766439052327eswoz0e9m6u",
+    "details": {
+      "productName": "Lady SUPER",
+      "lot": "1402345285",
+      "qty": 222
+    },
+    "createdAt": "2025-12-22T21:30:52.330Z"
+  },
+  {
+    "id": "1766439864064",
+    "action": "STOCK_DELETE",
+    "entity": "stock",
+    "entityId": "1766435104728empgmg49ryb",
+    "details": {
+      "productName": "ACTIVE/CHILOT - XL",
+      "lot": "1402426349",
+      "expiresAt": "2030-12-31",
+      "qty": 72
+    },
+    "createdAt": "2025-12-22T21:44:24.064Z"
+  },
+  {
+    "id": "1766511361636",
+    "action": "STOCK_ADD",
+    "entity": "stock",
+    "entityId": "1766511361629ok5ls1c4i0s",
+    "details": {
+      "productName": "Lady SUPER",
+      "lot": "1402345285",
+      "qty": 22
+    },
+    "createdAt": "2025-12-23T17:36:01.636Z"
+  },
+  {
+    "id": "1766511771513",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "1766511361629ok5ls1c4i0s",
+    "details": {
+      "productName": "Lady SUPER",
+      "lot": "1402345285",
+      "beforeQty": 22,
+      "afterQty": 223
+    },
+    "createdAt": "2025-12-23T17:42:51.513Z"
+  },
+  {
+    "id": "1766511780932",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "1766511361629ok5ls1c4i0s",
+    "details": {
+      "productName": "Lady SUPER",
+      "lot": "1402345285",
+      "beforeQty": 223,
+      "afterQty": 224
+    },
+    "createdAt": "2025-12-23T17:43:00.932Z"
+  },
+  {
+    "id": "1766513221898",
+    "action": "STOCK_DELETE",
+    "entity": "stock",
+    "entityId": "1766511361629ok5ls1c4i0s",
+    "details": {
+      "productName": "Lady SUPER",
+      "lot": "1402345285",
+      "expiresAt": "2030-04-30",
+      "qty": 224
+    },
+    "createdAt": "2025-12-23T18:07:01.898Z"
+  },
+  {
+    "id": "1766513226662",
+    "action": "STOCK_DELETE",
+    "entity": "stock",
+    "entityId": "1766439052327eswoz0e9m6u",
+    "details": {
+      "productName": "Lady SUPER",
+      "lot": "1402345285",
+      "expiresAt": "2030-04-30",
+      "qty": 222
+    },
+    "createdAt": "2025-12-23T18:07:06.662Z"
+  },
+  {
+    "id": "1766513232135",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "17663362497388awidpbcplg",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "beforeQty": 3131,
+      "afterQty": 29
+    },
+    "createdAt": "2025-12-23T18:07:12.135Z"
+  },
+  {
+    "id": "1766513301792",
+    "action": "STOCK_EDIT",
+    "entity": "stock",
+    "entityId": "17663362497388awidpbcplg",
+    "details": {
+      "productName": "SUPER",
+      "lot": "1402345285",
+      "beforeQty": 19,
+      "afterQty": 30
+    },
+    "createdAt": "2025-12-23T18:08:21.792Z"
+  }
+]

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <title>Comenzi</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="orders-header">
+  <button class="btn-back" onclick="location.href='index.html'">
+    ← Înapoi
+  </button>
+
+ 
+</header>
+
+
+<main class="container">
+  <section class="panel">
+    <h1>Comenzi existente</h1>
+    <div class="row">
+    
+
+  
+  
+<main class="container orders-page">
+
+
+  <div class="filters-bar">
+    <div class="filter-item">
+      <label>🚚 Traseu</label>
+      <select id="filterGroup">
+        <option value="">Toate</option>
+      </select>
+    </div>
+
+    <div class="filter-item">
+      <label>📂 Categorie</label>
+      <select id="filterCategory">
+        <option value="">Toate</option>
+      </select>
+    </div>
+    <div class="filter-item">
+  <label>📦 Status</label>
+  <select id="filterStatus">
+    <option value="">Toate</option>
+    <option value="in_procesare">În procesare</option>
+    <option value="livrata">Livrate</option>
+  </select>
+</div>
+
+
+    <div class="filter-item search-item">
+      <label>🔍 Caută client</label>
+      <input
+        type="text"
+        id="orderSearch"
+        placeholder="Tastează numele clientului…"
+      />
+      <div id="orderSearchResults" class="search-results"></div>
+    </div>
+
+    <button id="btnResetFilters" class="btn-reset">
+      🔄 Reset
+    </button>
+  </div>
+
+  <div id="ordersList" class="orders-grid"></div>
+
+</main>
+
+
+
+
+    <div id="ordersList"></div>
+  </section>
+</main>
+
+
+<script src="script.js"></script>
+</body>
+</html>

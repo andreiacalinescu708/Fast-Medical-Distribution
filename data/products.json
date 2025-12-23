@@ -1,0 +1,133 @@
+{
+  "SENI": {
+    "x30": [
+      { "name": "ACTIVE/CHILOT - S", "gtin": "5900516695910", "price": 75.19
+ },
+      { "name": "ACTIVE/CHILOT - M", "gtin": "05900516134020", "price": 83.21
+ },
+      { "name": "ACTIVE/CHILOT - L", "gtin": "05900516134037", "price": 90.86
+ },
+      { "name": "ACTIVE/CHILOT - XL", "gtin": "05900516174088", "price": 93.57
+ },
+      { "name": "AIR/SCAI - S", "gtin": "5900516800048", "price": 56.71
+ },
+      { "name": "AIR/SCAI - M", "gtin": "05900516191627", "price": 67.52
+ },
+      { "name": "AIR/SCAI - L", "gtin": "05900516191634", "price": 79.22
+ },
+      { "name": "AIR/SCAI - XL", "gtin": "05900516191641", "price": 86.41
+ },
+      { "name": "BASIC - S", "gtin": "5900516693787", "price": 55.90 },
+      { "name": "BASIC - M", "gtin": "5900516693794", "price": 59.46
+ },
+      { "name": "BASIC - L", "gtin": "5900516693800", "price": 72.44
+ },
+      { "name": "BASIC - XL", "gtin": "5900516693817", "price": 78.33
+ }
+    ],
+
+    "x10": [
+      { "name": "ACTIVE/CHILOT - S", "gtin": "", "price": null },
+      { "name": "ACTIVE/CHILOT - M", "gtin": "", "price": 28.69
+ },
+      { "name": "ACTIVE/CHILOT - L", "gtin": "", "price": 30.60
+ },
+      { "name": "ACTIVE/CHILOT - XL", "gtin": "", "price": 35.39
+ },
+      { "name": "AIR/SCAI - S", "gtin": "", "price": 19.42
+ },
+      { "name": "AIR/SCAI - M", "gtin": "", "price": 23.82
+ },
+      { "name": "AIR/SCAI - L", "gtin": "", "price": 28.23
+ },
+      { "name": "AIR/SCAI - XL", "gtin": "", "price": 33.23
+ }
+    ],
+
+    "ALEZE": {
+      "SUPER": [
+        { "name": "SUPER 90x60x30", "gtin": "05900516129507", "price": 69.31
+ },
+        { "name": "SUPER 60x60x30", "gtin": "05900516129484", "price": 52.21
+ },
+        { "name": "SUPER 90x170x30", "gtin": "05900516129538", "price": 103.52
+ },
+        { "name": "SUPER 90x60x5", "gtin": "", "price": 13.50
+ },
+        { "name": "SUPER 60x60x5", "gtin": "", "price": 10.80
+ },
+        { "name": "SUPER 90x170x5", "gtin": "", "price": 18.46
+ }
+      ],
+      "BASIC": [
+        { "name": "BASIC 90x60x30", "gtin": "", "price": 45.01
+ },
+        { "name": "BASIC 60x60x30", "gtin": "", "price": 33.30
+ },
+        { "name": "BASIC 90x60x10", "gtin": "", "price": 16.58
+ }
+      ]
+    },
+
+    "LADY": [
+      { "name": "Lady MICRO", "gtin": "", "price": 4.72
+ },
+      { "name": "Lady MICRO PLUS", "gtin": "", "price": 6.31
+ },
+      { "name": "Lady MINI", "gtin": "", "price": 9.00
+ },
+      { "name": "Lady NORMAL", "gtin": "05900516179946", "price": 12.60
+ },
+      { "name": "Lady EXTRA", "gtin": "05900516179953", "price": 10.80
+ },
+      { "name": "Lady EXTRA PLUS", "gtin": "05900516179960", "price": 12.60
+ },
+      { "name": "Lady SUPER", "gtin": "05900516179977", "price": 14.40
+ },
+      { "name": "Lady PLUS", "gtin": "05900516179984", "price": 18.01
+ },
+      { "name": "Lady SUPER-NIGHT", "gtin": "", "price": 19.80
+ }
+    ]
+  },
+
+  "BELLA": {
+    "ABSORBANTE PERIOADA": [
+      { "name": "Perfecta Slim Blue Extra Soft 10", "gtin": "", "price": null },
+      { "name": "Perfecta Slim Green Silk Drai 10", "gtin": "", "price": null },
+      { "name": "Perfecta Slim Rose Extra Soft Deo 10", "gtin": "", "price": null },
+      { "name": "Perfecta Slim Violet Silky Drai Deo 10", "gtin": "", "price": null },
+      { "name": "Bella Perfecta Slim Blue Extra Soft 20 buc", "gtin": "", "price": null },
+      { "name": "Bella Perfecta Slim Green Silk Drai 20 buc", "gtin": "", "price": null },
+      { "name": "Bella Perfecta Slim Rose Extra Soft Deo 20 buc", "gtin": "", "price": null },
+      { "name": "Bella Perfecta Slim Violet Silky Drai Deo 20 buc", "gtin": "", "price": null },
+      { "name": "Bella Perfecta Slim Night Silky Drai 7 buc", "gtin": "", "price": null },
+      { "name": "Bella Perfecta Slim Night Extra Soft 7 buc", "gtin": "", "price": null }
+    ],
+
+    "ABSORBANTE ZILNICE": [
+      { "name": "Panty Classic 20", "gtin": "", "price": null },
+      { "name": "Panty Classic 60", "gtin": "", "price": null },
+      { "name": "Panty Soft Comfort", "gtin": "", "price": null },
+      { "name": "Bella Panty Light Sensitive a'20", "gtin": "", "price": null },
+      { "name": "Bella Panty Light Aroma a'20", "gtin": "", "price": null },
+      { "name": "Bella Panty Light Sensitive a'60", "gtin": "", "price": null },
+      { "name": "Bella Panty Light Aroma a'60", "gtin": "", "price": null }
+    ]
+  },
+
+  "ALTELE": {
+    "MANUSI": [
+      { "name": "VIOLET - S", "gtin": "", "price": null },
+      { "name": "VIOLET - M", "gtin": "", "price": null },
+      { "name": "VIOLET - L", "gtin": "", "price": null },
+      { "name": "VIOLET - XL", "gtin": "", "price": null }
+    ],
+
+    "SERVETELE SENI": [
+      { "name": "SERVETELE SENI X48", "gtin": "", "price": null },
+      { "name": "SERVETELE SENI X68", "gtin": "", "price": null },
+      { "name": "SERVETELE SENI X80", "gtin": "", "price": null }
+    ]
+  }
+}

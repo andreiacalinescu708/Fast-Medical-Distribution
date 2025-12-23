@@ -1,0 +1,29 @@
+[
+  {
+    "id": "17663326773967an37ey7693",
+    "productId": "4",
+    "productName": "ACTIVE/CHILOT - XL",
+    "lot": "1402426349",
+    "expiresAt": "2030-12-31",
+    "qty": 178,
+    "createdAt": "2025-12-21T15:57:57.396Z"
+  },
+  {
+    "id": "17663362497388awidpbcplg",
+    "productId": "36",
+    "productName": "SUPER",
+    "lot": "1402345285",
+    "expiresAt": "2030-04-30",
+    "qty": 30,
+    "createdAt": "2025-12-21T16:57:29.738Z"
+  },
+  {
+    "id": "17664383560758t4nvkin9qd",
+    "productId": "4",
+    "productName": "ACTIVE/CHILOT - XL",
+    "lot": "140242634888",
+    "expiresAt": "2030-12-31",
+    "qty": 22,
+    "createdAt": "2025-12-22T21:19:16.075Z"
+  }
+]

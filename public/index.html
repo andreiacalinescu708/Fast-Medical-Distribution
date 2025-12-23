@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Acasa</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="userBar"></div>
+
+<header class="topbar">
+  <div class="topbar-left">
+    <span class="brand">⚕️ Fast Medical Distribution</span>
+  </div>
+
+  <div class="topbar-center">
+    <!-- opțional: breadcrumb / titlu pagină -->
+  </div>
+
+  <div class="topbar-right">
+    <button id="btnToggleTheme" class="icon-btn">🌙</button>
+    <div id="userBar"></div>
+  </div>
+</header>
+
+
+
+
+
+<main class="container">
+  <div class="cards">
+
+    <a href="orders.html" class="card">
+      <h2>📦 Comenzi</h2>
+      <p>Vezi și filtrează comenzile existente</p>
+    </a>
+    
+
+    <a href="adauga_comanda.html" class="card">
+      <h2>➕ Adaugă comandă nouă</h2>
+      <p>Selectează client și produse</p>
+    </a>
+
+    <div class="card disabled">
+      <h2>👥 Administrare clienți</h2>
+      <p>În curând</p>
+    </div>
+    <button onclick="location.href='stock.html'">
+  📦 Recepționare Marfă
+</button>
+<button onclick="location.href='checkstock.html'">
+  📦 Inventar Stoc
+</button>
+
+
+
+
+  </div>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
