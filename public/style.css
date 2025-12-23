@@ -349,7 +349,7 @@ button:hover,
     position: sticky;
     top: 90px; /* sub header */
     max-height: calc(100vh - 110px);
-    overflow-y: auto;
+    
   }
 }
 .topbar {
