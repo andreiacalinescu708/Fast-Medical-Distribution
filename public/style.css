@@ -424,3 +424,16 @@ body {
   color: #c0392b;
   font-weight: bold;
 }
+/* DESKTOP */
+@media (min-widthL 901px) {
+   .cart {
+      position: sticky
+      top: 90px;
+   }
+}
+
+/* mobile */
+@media (max-width: 900px) {
+   .cart { position: static;
+         }
+}
